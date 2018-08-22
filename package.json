@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": "10.6.0"
   },
-  "author": "",
+  "author": "Eduardo Pereira - edup2306@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
